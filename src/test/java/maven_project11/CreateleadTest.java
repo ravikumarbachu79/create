@@ -1,0 +1,15 @@
+package maven_project11;
+
+import org.junit.Test;
+
+public class CreateleadTest {
+	@Test
+	public void leader() {
+		System.out.println("lead created");
+	}
+
+}
+
+
+
+
